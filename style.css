@@ -1,0 +1,25 @@
+#body-row {
+    margin-left: 0;
+    margin-right: 0;
+}
+
+#sidebar-container {
+    min-height: 150vh;
+    background-color: #23232b;
+    padding: 0;
+}
+
+.sidebar-expanded {
+    width: 230px;
+}
+
+.sidebar-collapsed {
+    width: 60px;
+}
+
+
+#sidebar-container .list-group a{
+    height: 70px;
+    color: white;
+}
+
